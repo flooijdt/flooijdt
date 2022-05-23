@@ -1,4 +1,4 @@
-I am a Linux user, having used the system as my daily driver for both personal and work-
+I am Camilo, a Linux user, having used the system as my daily driver for both personal and work-
 related issues since 2005.
 Thru Linux, I ended up meeting, and later falling in love with, the Software Development area. 
 I program in Python but have no particular love for the language since what attracts me to this
@@ -10,3 +10,4 @@ blockchain, I think Rust will have a powerful changing positive effect in variou
 I’ve been a blockchain enthusiast and early adopter since 2010. I firmly believe this technology is
 and will continue to be changing the world for the better. I desire to work in this awesome field of
 IT.
+my LinkedIn: https://www.linkedin.com/in/camilolemospimentel/?locale=en_US
